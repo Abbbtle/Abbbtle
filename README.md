@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbbtle&show_icons=true&locale=en&layout=compact" alt="abbbtle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbbtle&show_icons=true&locale=en" alt="abbbtle" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbbtle&" alt="abbbtle" /></p>
